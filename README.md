@@ -1,6 +1,6 @@
 # Walmart-Sales-Forecasting
 Machine Learning based Walmart Sales Forecasting System using XGBoost and Streamlit.
-# Walmart Sales Forecasting System
+
 
 A machine learning-based sales forecasting system built using Python, XGBoost, Streamlit, and Plotly.
 
